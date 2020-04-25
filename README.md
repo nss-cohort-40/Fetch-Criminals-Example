@@ -6,4 +6,4 @@ This repo contains example code covering:
 * iterating data using for loop
 * dynamic population of data into select element on DOM
 * adding event listeners to DOM elements
-* DOM manipulation based off select "change" and "click" events
+* DOM manipulation based off "change" and "click" events
